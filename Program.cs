@@ -39,10 +39,21 @@ namespace Collections
             flavors.Add("Pistachio");
             flavors.Add("Rocky Road");
             Console.WriteLine($"Length of flavors is {flavors.Count}");
-            Console.WriteLine($"The third flavor is {flavors[3]}");
+            Console.WriteLine($"The third flavor is {flavors[2]}");
+            flavors.RemoveAt(2);
+            Console.WriteLine($"New length of flavors is {flavors.Count}");
 
             // DICTIONARIES //
-            
+            Dictionary<string,string> personFaves = new Dictionary<string, string>();
+            Random rand = new Random();
+            for(int k = 0; k < strings.Length; k++)
+            {
+                personFaves.Add(strings[k], flavors[rand.Next(0,flavors.Count)]);
+            }
+            foreach(var entry in personFaves)
+            {
+                Console.WriteLine($"{entry.Key} : {entry.Value}");
+            }
         }
     }
 }
