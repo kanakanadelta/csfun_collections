@@ -1,0 +1,11 @@
+/Users/rtongson/Documents/csharp/fundamentals/Collections/bin/Debug/netcoreapp2.2/Collections.deps.json
+/Users/rtongson/Documents/csharp/fundamentals/Collections/bin/Debug/netcoreapp2.2/Collections.runtimeconfig.json
+/Users/rtongson/Documents/csharp/fundamentals/Collections/bin/Debug/netcoreapp2.2/Collections.runtimeconfig.dev.json
+/Users/rtongson/Documents/csharp/fundamentals/Collections/bin/Debug/netcoreapp2.2/Collections.dll
+/Users/rtongson/Documents/csharp/fundamentals/Collections/bin/Debug/netcoreapp2.2/Collections.pdb
+/Users/rtongson/Documents/csharp/fundamentals/Collections/obj/Debug/netcoreapp2.2/Collections.csprojAssemblyReference.cache
+/Users/rtongson/Documents/csharp/fundamentals/Collections/obj/Debug/netcoreapp2.2/Collections.csproj.CoreCompileInputs.cache
+/Users/rtongson/Documents/csharp/fundamentals/Collections/obj/Debug/netcoreapp2.2/Collections.AssemblyInfoInputs.cache
+/Users/rtongson/Documents/csharp/fundamentals/Collections/obj/Debug/netcoreapp2.2/Collections.AssemblyInfo.cs
+/Users/rtongson/Documents/csharp/fundamentals/Collections/obj/Debug/netcoreapp2.2/Collections.dll
+/Users/rtongson/Documents/csharp/fundamentals/Collections/obj/Debug/netcoreapp2.2/Collections.pdb
